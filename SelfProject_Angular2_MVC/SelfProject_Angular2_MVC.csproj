@@ -16,7 +16,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Angular2MVC</RootNamespace>
     <AssemblyName>Angular2MVC</AssemblyName>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -27,6 +27,8 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <TypeScriptToolsVersion>2.1</TypeScriptToolsVersion>
+    <TargetFrameworkProfile />
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
