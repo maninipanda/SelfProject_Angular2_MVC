@@ -12,5 +12,9 @@ namespace Angular2MVC.Controllers
         {
             return View();
         }
+        public ActionResult Help()
+        {
+            return View();
+        }
     }
 }
